@@ -71,7 +71,7 @@ nav > a {
     color: white;
     padding: 0px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: normal;
     font-family: var(--fonte-padrao);
     border-radius: 10px;
     transition-duration: 0.5s;
